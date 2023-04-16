@@ -1,4 +1,5 @@
 flask
 numpy
 sklearn
+pandas
 gunicorn
